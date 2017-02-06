@@ -1,3 +1,6 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* [Set up using browser](chapter1.md)
+* [FAQ](faq.md)
+
