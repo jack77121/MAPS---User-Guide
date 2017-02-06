@@ -56,7 +56,7 @@ Default location is at Senkaku Islands, please enter your current coordinate.
 
 ## step 6.
 
-**Set up wifi configuration, follow**
+**Set up WiFi configuration, follow**
 
 **System➜MAPS configuration**
 
@@ -72,7 +72,7 @@ Input your “WiFi SSID”, “Password” and choose “Yes, please.”
 
 **Your MAPS will reboot after step 6.**
 
-**Wait about 3 minutes, then your MAPS will start pushing data to the cloud!    
+**Wait about 3 minutes, then your MAPS will start pushing data to the cloud!      
 **
 
 ## step 8.
