@@ -2,11 +2,9 @@
 
 ## step 1.
 
-**Power on your MAPS.**
+**Power on your MAPS by connecting the power cable to your MAPS device.**
 
 ![](/assets/poweron_01.png)
-
-Connect the power cable to MAPS.
 
 ![](/assets/poweron_02.png)
 
@@ -38,8 +36,6 @@ For example, the device number of the above MAPS device is 0020, and you have to
 
 ![](/assets/login.png)
 
-
-
 ## step 5.
 
 **Please set up the GPS coordinates of your MAPS device by following the link \`System' and then \`GPS configuration'.**
@@ -47,8 +43,6 @@ For example, the device number of the above MAPS device is 0020, and you have to
 **If you have no ideas about the GPS coordinates, please see FAQ.**
 
 ![](/assets/gps01.png)
-
-
 
 ![](/assets/gps02.png)
 
@@ -70,7 +64,7 @@ Note that, the default GPS coordinates are on the Senkaku Islands, which means y
 
 **Your MAPS will reboot after step 6.**
 
-**Please wait about 3 minutes, and the system will start working then.    
+**Please wait about 3 minutes, and the system will start working then.      
 **
 
 ## step 8.
