@@ -14,7 +14,9 @@ The red LED will shine for a while, and then the green LED will keep lighting af
 
 ## step 2.
 
-**Find the WiFi AP with the prefix “**_**LinkIt\_Smart\_7688\_**_**” in your WiFi configuration, and connect to this WiFi AP. Then, the red LED of your MAPS will start blinking, meaning you are doing right so far.**
+**Find the WiFi AP with the prefix “**_**LinkIt\_Smart\_7688**_**\_” in your WiFi configuration, and connect to this WiFi AP. **
+
+**Then, the red LED of your MAPS will start blinking, meaning you are doing right so far.**
 
 ![](/assets/findap.png)
 
@@ -26,8 +28,6 @@ For example, please join the WiFi network "LinkIt\_Smart\_7688\_1B2642" in the a
 
 **Note that “OXOX” is the device number \(four digits\) of your MAPS box, and you can find it easily on the top of your MAPS device.**
 
-For example, the device number is MAPS-0020, so go to [http://maps0020.local/cgi-bin/luci](http://maps0020.local/cgi-bin/luci)
-
 ![](/assets/mapssticker.png)
 
 For example, the device number of the above MAPS device is 0020, and you have to go to [http://maps0020.local/cgi-bin/luci ](http://maps0020.local/cgi-bin/luci)for the following steps.
@@ -38,7 +38,7 @@ For example, the device number of the above MAPS device is 0020, and you have to
 
 ![](/assets/login.png)
 
-login
+
 
 ## step 5.
 
@@ -48,7 +48,7 @@ login
 
 ![](/assets/gps01.png)
 
-GPS configuration
+
 
 ![](/assets/gps02.png)
 
@@ -70,7 +70,7 @@ Note that, the default GPS coordinates are on the Senkaku Islands, which means y
 
 **Your MAPS will reboot after step 6.**
 
-**Please wait about 3 minutes, and the system will start working then.  
+**Please wait about 3 minutes, and the system will start working then.    
 **
 
 ## step 8.
