@@ -1,4 +1,4 @@
-# Set up using browser
+# System Setup
 
 ## step 1.
 
@@ -64,7 +64,7 @@ Note that, the default GPS coordinates are on the Senkaku Islands, which means y
 
 **Your MAPS will reboot after step 6.**
 
-**Please wait about 3 minutes, and the system will start working then.      
+**Please wait about 3 minutes, and the system will start working then.        
 **
 
 ## step 8.
