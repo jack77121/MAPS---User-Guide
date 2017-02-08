@@ -12,7 +12,7 @@
 
 ## 步驟 2. {#step-2}
 
-**接著請在無線網路的清單中找尋以 "**_**LinkIt\_Smart\_7688\_"**_** 為起頭的網路基地台，並且加入該網路。**
+**接著請在無線網路的清單中找尋以 "**_\*\*LinkIt\_Smart\_7688\_"**\_** 為起頭的網路基地台，並且加入該網路。\*\*
 
 **此時 MAPS 上紅色的燈號會開始閃爍，代表目前為止的操作正確。**
 
@@ -46,7 +46,7 @@
 
 ![](https://jack77121.gitbooks.io/maps-v5-1-user-guide/content/assets/gps02.png)
 
-Note that, the default GPS coordinates are on the Senkaku Islands, which means your measurement data will be placed there on the map unless you correctly setup the GPS coordinates.
+注意，MAPS 系統的預設地理坐標皆座落在釣魚台群島位置，若您未設定正確的座標，將來此機器的感測資料在進行地圖視覺化時，將會出現在錯誤的位置。
 
 ## step 6. {#step-6}
 
