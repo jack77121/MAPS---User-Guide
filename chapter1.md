@@ -6,8 +6,6 @@
 
 ![](/assets/poweron_01.png)
 
-
-
 ![](/assets/poweron_02.png)
 
 此時，紅色的燈號會先亮起，接著綠色的燈號會持續發亮，代表MAPS已經開機成功。
@@ -25,8 +23,6 @@ For example, please join the WiFi network "LinkIt\_Smart\_7688\_1B2642" in the a
 **Open your browser and go to **[**http://mapsOXOX.local/cgi-bin/luci**](http://mapsoxox.local/cgi-bin/luci)** **
 
 **Note that “OXOX” is the device number \(four digits\) of your MAPS box, and you can find it easily on the top of your MAPS device.**
-
-For example, the device number is MAPS-0020, so go to [http://maps0020.local/cgi-bin/luci](http://maps0020.local/cgi-bin/luci)
 
 ![](/assets/mapssticker.png)
 
@@ -70,7 +66,7 @@ Note that, the default GPS coordinates are on the Senkaku Islands, which means y
 
 **Your MAPS will reboot after step 6.**
 
-**Please wait about 3 minutes, and the system will start working then.    
+**Please wait about 3 minutes, and the system will start working then.      
 **
 
 ## step 8.
