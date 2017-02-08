@@ -1,14 +1,14 @@
-# System Setup {#system-setup}
+# 系統設定 {#system-setup}
 
-## step 1. {#step-1}
+## 步驟 1. {#step-1}
 
-**Power on your MAPS by connecting the power cable to your MAPS device.**
+**請先將您的 MAPS 機器插上電源線。**
 
 ![](https://jack77121.gitbooks.io/maps-v5-1-user-guide/content/assets/poweron_01.png)
 
 ![](https://jack77121.gitbooks.io/maps-v5-1-user-guide/content/assets/poweron_02.png)
 
-The red LED will shine for a while, and then the green LED will keep lighting after MAPS becomes ready.
+插電之後，紅色的燈號會先亮起，接著綠色的燈號會持續發亮，代表MAPS已經開機成功。
 
 ## step 2. {#step-2}
 
