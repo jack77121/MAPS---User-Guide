@@ -1,20 +1,20 @@
-# Set up using browser
+# 請使用瀏覽器進行設定
 
-## step 1.
+## 步驟 1.
 
-**Power on your MAPS.**
+**請將 MAPS 接上電源線**
 
 ![](/assets/poweron_01.png)
 
-Connect the power cable to MAPS.
+
 
 ![](/assets/poweron_02.png)
 
-The red LED will shine for a while, and then the green LED will keep lighting after MAPS becomes ready.
+此時，紅色的燈號會先亮起，接著綠色的燈號會持續發亮，代表MAPS已經開機成功。
 
-## step 2.
+## 步驟 2.
 
-**Find the WiFi AP with the prefix “**_**LinkIt\_Smart\_7688\_**_**” in your WiFi configuration, and connect to this WiFi AP. Then, the red LED of your MAPS will start blinking, meaning you are doing right so far.**
+**Find the WiFi AP with the prefix “**_\*\*LinkIt\_Smart\_7688\_**\_**” in your WiFi configuration, and connect to this WiFi AP. Then, the red LED of your MAPS will start blinking, meaning you are doing right so far.\*\*
 
 ![](/assets/findap.png)
 
@@ -70,7 +70,7 @@ Note that, the default GPS coordinates are on the Senkaku Islands, which means y
 
 **Your MAPS will reboot after step 6.**
 
-**Please wait about 3 minutes, and the system will start working then.  
+**Please wait about 3 minutes, and the system will start working then.    
 **
 
 ## step 8.
