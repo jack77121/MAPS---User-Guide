@@ -10,37 +10,37 @@
 
 插電之後，紅色的燈號會先亮起，接著綠色的燈號會持續發亮，代表MAPS已經開機成功。
 
-## step 2. {#step-2}
+## 步驟 2. {#step-2}
 
-**Find the WiFi AP with the prefix “**_**LinkIt\_Smart\_7688**_**\_” in your WiFi configuration, and connect to this WiFi AP.**
+**接著請在無線網路的清單中找尋以 "**_**LinkIt\_Smart\_7688\_"**_** 為起頭的網路基地台，並且加入該網路。**
 
-**Then, the red LED of your MAPS will start blinking, meaning you are doing right so far.**
+**此時 MAPS 上紅色的燈號會開始閃爍，代表目前為止的操作正確。**
 
 ![](https://jack77121.gitbooks.io/maps-v5-1-user-guide/content/assets/findap.png)
 
-For example, please join the WiFi network "LinkIt\_Smart\_7688\_1B2642" in the above example.
+例如：在上方的範例中，您需要加入 "LinkIt\_Smart\_7688\_1B2642" 這個網路。
 
-## step 3. {#step-3}
+## 步驟 3. {#step-3}
 
-**Open your browser and go to**[**http://mapsOXOX.local/cgi-bin/luci**](http://mapsoxox.local/cgi-bin/luci)
+**打開您的瀏覽器，並且前往這個網址：**[**http://mapsOXOX.local/cgi-bin/luci**](http://mapsoxox.local/cgi-bin/luci)
 
-**Note that “OXOX” is the device number \(four digits\) of your MAPS box, and you can find it easily on the top of your MAPS device.**
+**請注意 “OXOX” 這個四位數的號碼，代表您的 MAPS 機器編號，這個號碼可以在盒子上方的貼紙上看到。**
 
 ![](https://jack77121.gitbooks.io/maps-v5-1-user-guide/content/assets/mapssticker.png)
 
-For example, the device number of the above MAPS device is 0020, and you have to go to[http://maps0020.local/cgi-bin/luci](http://maps0020.local/cgi-bin/luci)for the following steps.
+例如：在上面這個範例中，MAPS 外盒上的號碼是 0020，因此必需前往這個網址：[http://maps0020.local/cgi-bin/luci](http://maps0020.local/cgi-bin/luci)
 
-## step 4. {#step-4}
+## 步驟 4. {#step-4}
 
-**Please input the default password**_**iisnrl619**_**on the login page.**
+**請在登入系統網頁中，輸入預設的密碼：**_**iisnrl619**_
 
 ![](https://jack77121.gitbooks.io/maps-v5-1-user-guide/content/assets/login.png)
 
-## step 5. {#step-5}
+## 步驟 5. {#step-5}
 
-**Please set up the GPS coordinates of your MAPS device by following the link \`System' and then \`GPS configuration'.**
+**請接著在畫面上點選 "System" 以及 " GPS configuration"，然後輸入您未來裝機地點的 GPS 座標。**
 
-**If you have no ideas about the GPS coordinates, please see FAQ.**
+**若您不知道您的 GPS 座標，可以參閱 FAQ 章節。**
 
 ![](https://jack77121.gitbooks.io/maps-v5-1-user-guide/content/assets/gps01.png)
 
