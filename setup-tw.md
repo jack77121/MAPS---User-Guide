@@ -66,9 +66,9 @@
 
 ## step 8. {#step-8}
 
-**Now, please go to the webpage**[**https://data.lass-net.org/grafana/**](https://data.lass-net.org/grafana/)
+**現在，您可以前往這個網址：**[**https://data.lass-net.org/grafana/**](https://data.lass-net.org/grafana/)
 
-**Please click the device ID panel on the top left corner of the page, and input your device ID \(i.e., MAPS-OXOX\). Hopefully, you will find your device and the measurement data on the screen then!**
+**在網頁左上角的輸入區中，點選後輸入您的機器代碼（格式為 MAPS-OOXX），接著您在螢幕上將看到您的機器以及最新的量測結果。**
 
 ![](https://jack77121.gitbooks.io/maps-v5-1-user-guide/content/assets/grafana01.png)
 
