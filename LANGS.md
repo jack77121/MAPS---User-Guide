@@ -1,8 +1,4 @@
-\# Languages
-
-
+\* \[中文版\]\(tw/\)
 
 \* \[English\]\(en/\)
-
-\* \[Traditional Chinese\]\(tw/\)
 
