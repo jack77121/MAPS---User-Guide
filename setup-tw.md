@@ -48,15 +48,13 @@
 
 注意，MAPS 系統的預設地理坐標皆座落在釣魚台群島位置，若您未設定正確的座標，將來此機器的感測資料在進行地圖視覺化時，將會出現在錯誤的位置。
 
-## step 6. {#step-6}
+## 步驟 6. {#step-6}
 
-**Now, the last step is to set up the WiFi of your MAPS device.**
-
-**Please click \`System' and then \`MAPS configuration' for configuration.**
+**接著是設定 MAPS 裝置的無線網路，請選擇 "System" 與 "MAPS configuration“，並輸入未來 MAPS 機器使用的無線網路 SSID 與密碼。**
 
 ![](https://jack77121.gitbooks.io/maps-v5-1-user-guide/content/assets/maps_config01.png)
 
-**Please input your WiFi SSID and PASSWORD information accordingly, and then click 'Yes, please'.**
+**輸入完畢後，請點選 'Yes, please'。**
 
 ![](https://jack77121.gitbooks.io/maps-v5-1-user-guide/content/assets/maps_config02.png)
 
