@@ -58,11 +58,11 @@
 
 ![](https://jack77121.gitbooks.io/maps-v5-1-user-guide/content/assets/maps_config02.png)
 
-## step 7. {#step-7}
+## 步驟 7. {#step-7}
 
-**Your MAPS will reboot after step 6.**
+**結束步驟 6 之後，MAPS 機器會自行重新開機。**
 
-**Please wait about 3 minutes, and the system will start working then.**
+**請耐心等候約三分鐘，系統即將開始運作。**
 
 ## step 8. {#step-8}
 
