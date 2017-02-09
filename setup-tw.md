@@ -36,7 +36,21 @@
 
 ![](https://jack77121.gitbooks.io/maps-v5-1-user-guide/content/assets/login.png)
 
-## 步驟 5. {#step-5}
+## 步驟 5. {#step-4}
+
+找到自己的GPS座標。
+
+Android: 打開google map，長按所在地點
+
+![](/assets/android_map.png)
+
+iOS: 打開內建地圖 app，長按所在地點
+
+![](/assets/ios_map.png)
+
+##  {#step-5}
+
+## 步驟 6. {#step-5}
 
 **請接著在畫面上點選 "System" 以及 " GPS configuration"，然後輸入您未來裝機地點的 GPS 座標。**
 
@@ -48,7 +62,9 @@
 
 注意，MAPS 系統的預設地理坐標皆座落在釣魚台群島位置，若您未設定正確的座標，將來此機器的感測資料在進行地圖視覺化時，將會出現在錯誤的位置。
 
-## 步驟 6. {#step-6}
+##  {#step-6}
+
+## 步驟 7. {#step-6}
 
 **接著是設定 MAPS 裝置的無線網路，請選擇 "System" 與 "MAPS configuration“，並輸入未來 MAPS 機器使用的無線網路 SSID 與密碼。**
 
@@ -58,13 +74,15 @@
 
 ![](https://jack77121.gitbooks.io/maps-v5-1-user-guide/content/assets/maps_config02.png)
 
-## 步驟 7. {#step-7}
+## 步驟 8. {#step-7}
 
 **結束步驟 6 之後，MAPS 機器會自行重新開機。**
 
 **請耐心等候約三分鐘，系統即將開始運作。**
 
-## 步驟 8. {#step-8}
+##  {#step-8}
+
+## 步驟 9. {#step-8}
 
 **現在，您可以前往這個網址：**[**https://data.lass-net.org/grafana/**](https://data.lass-net.org/grafana/)
 
