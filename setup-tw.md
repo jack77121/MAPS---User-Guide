@@ -64,7 +64,7 @@
 
 **請耐心等候約三分鐘，系統即將開始運作。**
 
-## step 8. {#step-8}
+## 步驟 8. {#step-8}
 
 **現在，您可以前往這個網址：**[**https://data.lass-net.org/grafana/**](https://data.lass-net.org/grafana/)
 
