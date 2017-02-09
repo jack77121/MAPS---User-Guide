@@ -1,4 +1,4 @@
-# 系統設定 {#system-setup}
+# 系統設定                                                                                    ![](/assets/logo.png) {#system-setup}
 
 ## 步驟 1. {#step-1}
 
