@@ -66,11 +66,11 @@ iOS: 打開內建地圖 app，長按所在地點
 
 ## 步驟 7. {#step-6}
 
-**接著是設定 MAPS 裝置的無線網路，請選擇 "System" 與 "MAPS configuration“，並輸入未來 MAPS 機器使用的無線網路 SSID 與密碼。**
+**接著是設定 MAPS 裝置的無線網路，請選擇 "System" 與 "MAPS configuration“，並輸入未來 MAPS 機器使用的無線網路 SSID 與密碼，選擇Yes, Please並點擊Save & Apply。**
 
 ![](https://jack77121.gitbooks.io/maps-v5-1-user-guide/content/assets/maps_config01.png)
 
-**輸入完畢後，請點選 'Yes, please'。**
+**輸入完畢後，請選 'Yes, please'，並點擊'Save & Apply'。**
 
 ![](https://jack77121.gitbooks.io/maps-v5-1-user-guide/content/assets/maps_config02.png)
 
