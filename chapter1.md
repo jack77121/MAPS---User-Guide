@@ -1,4 +1,4 @@
-# System Setup
+# System Setup                                                                            ![](/assets/logo.png)
 
 ## step 1.
 
@@ -10,6 +10,8 @@
 
 The red LED will shine for a while, and then the green LED will keep lighting after MAPS becomes ready.
 
+---
+
 ## step 2.
 
 **Find the WiFi AP with the prefix “**_**LinkIt\_Smart\_7688**_**\_” in your WiFi configuration, and connect to this WiFi AP. **
@@ -20,58 +22,86 @@ The red LED will shine for a while, and then the green LED will keep lighting af
 
 For example, please join the WiFi network "LinkIt\_Smart\_7688\_1B2642" in the above example.
 
+---
+
 ## step 3.
 
-**Open your browser and go to **[**http://mapsOXOX.local/cgi-bin/luci**](http://mapsoxox.local/cgi-bin/luci)** **
+**Open your browser and go to **[**https://mapsOXOX.local/cgi-bin/luci**](http://mapsoxox.local/cgi-bin/luci)** **
 
 **Note that “OXOX” is the device number \(four digits\) of your MAPS box, and you can find it easily on the top of your MAPS device.**
 
 ![](/assets/mapssticker.png)
 
-For example, the device number of the above MAPS device is 0020, and you have to go to [http://maps0020.local/cgi-bin/luci ](http://maps0020.local/cgi-bin/luci)for the following steps.
+For example, the device number of the above MAPS device is 0020, and you have to go to [https://maps0020.local/cgi-bin/luci ](http://maps0020.local/cgi-bin/luci)for the following steps.
+
+---
 
 ## step 4.
 
-**Please input the default password **_**iisnrl619**_** on the login page.**
+**Please input the default password  **_**dolassgetmore**_**  on the login page.**
 
-![](/assets/login.png)
+![](/assets/5.1.6login.png)
+
+---
 
 ## step 5.
 
-**Please set up the GPS coordinates of your MAPS device by following the link \`System' and then \`GPS configuration'.**
+**Prepare your GPS coordinates.**
 
-**If you have no ideas about the GPS coordinates, please see FAQ.**
+Android - open google map app, hold on your locaton
 
-![](/assets/gps01.png)
+iOS - open Maps app, hold on your location![](/assets/find_gps.png)
 
-![](/assets/gps02.png)
-
-Note that, the default GPS coordinates are on the Senkaku Islands, which means your measurement data will be placed there on the map unless you correctly setup the GPS coordinates.
+---
 
 ## step 6.
 
-**Now, the last step is to set up the WiFi of your MAPS device. **
+**Please set up the WiFi & GPS coordinates of your MAPS device by following the link 'LASS-MAPS \(EN\)'**
 
-**Please click \`System' and then \`MAPS configuration' for configuration.**
+** **![](/assets/5.1.6_setting.png)
 
-![](/assets/maps_config01.png)
-
-**Please input your WiFi SSID and PASSWORD information accordingly, and then click 'Yes, please'.**
-
-![](/assets/maps_config02.png)
+---
 
 ## step 7.
 
-**Your MAPS will reboot after step 6.**
+**Few more steps below,**
 
-**Please wait about 3 minutes, and the system will start working then.        
-**
+**For WiFi Setting:**
+
+1. Click the button "Scan WiFi nearby" for WiFi scanning, it takes about 5~6 secs.
+2. Choose the WiFi ID from the list, the number presents the signal strength \(0~100\). For example, the picture below shows that we choose the AS\_Guest as our WiFi ID, and its signal strength is 68, not so well.
+3. Enter the WiFi password.
+4. Select 'Use WiFi'. 
+
+**For GPS Setting:**
+
+1. Select 'Input manually.' as your GPS Source.
+2. Input your Latitude. \(Step 5\)
+3. Input your Longitude. \(Step 5\)
+
+Note that, the default GPS coordinates are on the Senkaku Islands, which means your measurement data will be placed there on the map unless you correctly setup the GPS coordinates.
+
+Click 'Save & Apply', the blue button in the bottom right corner.
+
+![](/assets/5.1.6_setting_wifi_gps.png)
+
+---
 
 ## step 8.
 
+**Your MAPS will reboot after step 7.**
+
+**Have a cup of tea, the system will start working about 7 minutes later.**
+
+---
+
+## step 9.
+
 **Now, please go to the webpage **[**https://data.lass-net.org/grafana/**](https://data.lass-net.org/grafana/)
 
-**Please click the device ID panel on the top left corner of the page, and input your device ID \(i.e., MAPS-OXOX\). Hopefully, you will find your device and the measurement data on the screen then!**
+**Please click the device ID panel on the top left corner of the page, and input your device ID \(i.e., MAPS-OXOX\). Hopefully, you will find your device and the measurement data on the screen.**
+
+**Your new GPS setting will be active tomorrow, it won't be active immediately.**
 
 ![](/assets/grafana01.png)
 
