@@ -10,6 +10,8 @@
 
 The red LED will shine for a while, and then the green LED will keep lighting after MAPS becomes ready.
 
+---
+
 ## step 2.
 
 **Find the WiFi AP with the prefix “**_**LinkIt\_Smart\_7688**_**\_” in your WiFi configuration, and connect to this WiFi AP. **
@@ -19,6 +21,8 @@ The red LED will shine for a while, and then the green LED will keep lighting af
 ![](/assets/findap.png)
 
 For example, please join the WiFi network "LinkIt\_Smart\_7688\_1B2642" in the above example.
+
+---
 
 ## step 3.
 
@@ -30,11 +34,15 @@ For example, please join the WiFi network "LinkIt\_Smart\_7688\_1B2642" in the a
 
 For example, the device number of the above MAPS device is 0020, and you have to go to [https://maps0020.local/cgi-bin/luci ](http://maps0020.local/cgi-bin/luci)for the following steps.
 
+---
+
 ## step 4.
 
 **Please input the default password  **_**dolassgetmore**_**  on the login page.**
 
 ![](/assets/5.1.6login.png)
+
+---
 
 ## step 5.
 
@@ -44,11 +52,15 @@ Android - open google map app, hold on your locaton
 
 iOS - open Maps app, hold on your location![](/assets/find_gps.png)
 
+---
+
 ## step 6.
 
 **Please set up the WiFi & GPS coordinates of your MAPS device by following the link 'LASS-MAPS \(EN\)'**
 
 ** **![](/assets/5.1.6_setting.png)
+
+---
 
 ## step 7.
 
@@ -72,6 +84,8 @@ Note that, the default GPS coordinates are on the Senkaku Islands, which means y
 Click 'Save & Apply', the blue button in the bottom right corner.
 
 ![](/assets/5.1.6_setting_wifi_gps.png)
+
+---
 
 ## step 8.
 
