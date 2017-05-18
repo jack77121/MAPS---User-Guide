@@ -4,27 +4,27 @@
 
 #### **準備工作**
 
-* **請先將您的 MAPS 機器插上電源線。**
-
-![](https://jack77121.gitbooks.io/maps-v5-1-user-guide/content/assets/poweron_01.png)
-
-![](https://jack77121.gitbooks.io/maps-v5-1-user-guide/content/assets/poweron_02.png)
-
-插電之後，紅色的燈號會先亮起，接著綠色的燈號會持續發亮，代表MAPS已經開機成功。
-
 * **準備自己的GPS座標。**
 
 Android: 打開google map，長按所在地點
 
 ![](/assets/android_map.png)
 
-
-
 iOS: 打開內建地圖 app，長按所在地點
 
 ![](/assets/ios_map.png)
 
 將查詢到的座標抄寫或記錄在別處，我們等等會用到
+
+
+
+* **將您的 MAPS 機器插上電源線。**
+
+![](https://jack77121.gitbooks.io/maps-v5-1-user-guide/content/assets/poweron_01.png)
+
+![](https://jack77121.gitbooks.io/maps-v5-1-user-guide/content/assets/poweron_02.png)
+
+插電之後，紅色的燈號會先亮起，接著僅剩綠色的燈號持續發亮，代表MAPS已經開機成功。
 
 ---
 
