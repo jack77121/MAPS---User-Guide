@@ -12,15 +12,13 @@
 
 插電之後，紅色的燈號會先亮起，接著綠色的燈號會持續發亮，代表MAPS已經開機成功。
 
-
-
 * **準備自己的GPS座標。**
 
-    **Android: 打開google map，長按所在地點**
+    Android: 打開google map，長按所在地點
 
 ![](/assets/android_map.png)
 
-    **iOS: 打開內建地圖 app，長按所在地點**
+    iOS: 打開內建地圖 app，長按所在地點
 
 ![](/assets/ios_map.png)
 
