@@ -101,6 +101,8 @@ GPS設定：
 
 **在網頁左上角的輸入區中，點選後輸入您的機器代碼（格式為 MAPS-OOXX），接著您在螢幕上將看到您的機器以及最新的量測結果。**
 
+**注意，新設定的GPS將於隔日做更新，設定完的當下並不會馬上顯示正確的位置。**
+
 ![](https://jack77121.gitbooks.io/maps-v5-1-user-guide/content/assets/grafana01.png)
 
 ![](https://jack77121.gitbooks.io/maps-v5-1-user-guide/content/assets/grafana02.png)

@@ -101,6 +101,8 @@ Click 'Save & Apply', the blue button in the bottom right corner.
 
 **Please click the device ID panel on the top left corner of the page, and input your device ID \(i.e., MAPS-OXOX\). Hopefully, you will find your device and the measurement data on the screen.**
 
+**Your new GPS setting will be active tomorrow, it won't be active immediately.**
+
 ![](/assets/grafana01.png)
 
 ![](/assets/grafana02.png)
