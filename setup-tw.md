@@ -2,13 +2,29 @@
 
 ## 步驟 1. {#step-1}
 
-**請先將您的 MAPS 機器插上電源線。**
+#### **準備工作**
+
+* **請先將您的 MAPS 機器插上電源線。**
 
 ![](https://jack77121.gitbooks.io/maps-v5-1-user-guide/content/assets/poweron_01.png)
 
 ![](https://jack77121.gitbooks.io/maps-v5-1-user-guide/content/assets/poweron_02.png)
 
 插電之後，紅色的燈號會先亮起，接著綠色的燈號會持續發亮，代表MAPS已經開機成功。
+
+
+
+* **準備自己的GPS座標。**
+
+    **Android: 打開google map，長按所在地點**
+
+![](/assets/android_map.png)
+
+    **iOS: 打開內建地圖 app，長按所在地點**
+
+![](/assets/ios_map.png)
+
+將查詢到的座標抄寫或記錄在別處，我們等等會用到
 
 ---
 
@@ -44,27 +60,13 @@
 
 ---
 
-## 步驟 5. {#step-4}
-
-**找到自己的GPS座標。**
-
-**Android: 打開google map，長按所在地點**
-
-![](/assets/android_map.png)
-
-**iOS: 打開內建地圖 app，長按所在地點**
-
-![](/assets/ios_map.png)
-
----
-
-## 步驟 6. {#step-5}
+## 步驟 5. {#step-5}
 
 選擇 'LASS-MAPS \(中\)'來進行 WiFi 和 GPS 的設定![](/assets/5.1.6_setting_tw.png)
 
 ---
 
-## 步驟 7. {#step-6}
+## 步驟 6. {#step-6}
 
 WiFi設定：
 
@@ -76,8 +78,8 @@ WiFi設定：
 GPS設定：
 
 1. GPS來源選擇 '我要手動輸入'
-2. 輸入緯度（步驟5）
-3. 輸入經度（步驟5）
+2. 輸入緯度（步驟1）
+3. 輸入經度（步驟1）
 
 注意，MAPS 系統的預設地理坐標皆座落在釣魚台群島位置，若您未設定正確的座標，將來此機器的感測資料在進行地圖視覺化時，將會出現在錯誤的位置。
 
@@ -87,15 +89,15 @@ GPS設定：
 
 ---
 
-## 步驟 8. {#step-7}
+## 步驟 7. {#step-7}
 
-**結束步驟 7 之後，MAPS 機器會自行重新開機。**
+**結束步驟 6 之後，MAPS 機器會自行重新開機。**
 
 **喝杯水休息一下，耐心等候，系統約七分鐘後開始運作。**
 
 ---
 
-## 步驟 9. {#step-8}
+## 步驟 8. {#step-8}
 
 **現在，您可以前往這個網址：**[**https://data.lass-net.org/grafana/**](https://data.lass-net.org/grafana/)
 
