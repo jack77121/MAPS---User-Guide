@@ -1,4 +1,4 @@
-# System Setup
+# System Setup                                                                            ![](/assets/logo.png)
 
 ## step 1.
 
@@ -50,8 +50,6 @@ iOS - open Maps app, hold on your location![](/assets/find_gps.png)
 
 ** **![](/assets/5.1.6_setting.png)
 
-
-
 ## step 7.
 
 **Few more steps below,**
@@ -71,8 +69,6 @@ iOS - open Maps app, hold on your location![](/assets/find_gps.png)
 
 Note that, the default GPS coordinates are on the Senkaku Islands, which means your measurement data will be placed there on the map unless you correctly setup the GPS coordinates.
 
-
-
 Click 'Save & Apply', the blue button in the bottom right corner.
 
 ![](/assets/5.1.6_setting_wifi_gps.png)
@@ -83,7 +79,7 @@ Click 'Save & Apply', the blue button in the bottom right corner.
 
 **Have a cup of tea, the system will start working about 7 minutes later.**
 
-** **
+---
 
 ## step 9.
 
